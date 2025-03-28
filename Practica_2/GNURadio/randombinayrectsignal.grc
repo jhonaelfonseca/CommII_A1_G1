@@ -78,7 +78,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [520, 24.0]
+    coordinate: [488, 80.0]
     rotation: 0
     state: enabled
 - name: samp_rate
@@ -141,7 +141,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [224, 128.0]
+    coordinate: [512, 152.0]
     rotation: 0
     state: enabled
 - name: analog_noise_source_x_0
@@ -160,7 +160,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [704, 288.0]
+    coordinate: [1040, 328.0]
     rotation: 0
     state: true
 - name: analog_random_source_x_0
@@ -180,7 +180,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [16, 120.0]
+    coordinate: [8, 112.0]
     rotation: 0
     state: disabled
 - name: blocks_add_xx_0
@@ -198,7 +198,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [419, 131]
+    coordinate: [696, 192.0]
     rotation: 0
     state: enabled
 - name: blocks_char_to_float_0
@@ -215,7 +215,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [146, 172]
+    coordinate: [536, 360.0]
     rotation: 0
     state: true
 - name: blocks_complex_to_mag_squared_0
@@ -253,7 +253,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [16, 248.0]
+    coordinate: [0, 232.0]
     rotation: 0
     state: enabled
 - name: blocks_multiply_const_vxx_0
@@ -271,7 +271,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [504, 184.0]
+    coordinate: [832, 200.0]
     rotation: 0
     state: enabled
 - name: blocks_multiply_const_vxx_1
@@ -343,7 +343,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [912, 112.0]
+    coordinate: [1232, 200.0]
     rotation: 0
     state: true
 - name: blocks_unpack_k_bits_bb_1
@@ -359,7 +359,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [984, 488.0]
+    coordinate: [360, 312.0]
     rotation: 0
     state: enabled
 - name: epy_block_0
@@ -407,7 +407,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [377, 610]
+    coordinate: [392, 664.0]
     rotation: 0
     state: true
 - name: import_0
@@ -439,7 +439,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [673, 166]
+    coordinate: [1000, 192.0]
     rotation: 0
     state: enabled
 - name: note_0
@@ -704,7 +704,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1069, 584]
+    coordinate: [1208, 564.0]
     rotation: 0
     state: true
 - name: virtual_sink_0_1
@@ -717,7 +717,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [237, 245]
+    coordinate: [736.0, 376]
     rotation: 270
     state: true
 - name: virtual_sink_0_1_0
@@ -730,7 +730,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [1008, 261]
+    coordinate: [1344.0, 304]
     rotation: 270
     state: enabled
 - name: virtual_sink_0_1_0_0
@@ -743,7 +743,7 @@ blocks:
     bus_sink: false
     bus_source: false
     bus_structure: null
-    coordinate: [951, 332]
+    coordinate: [1288.0, 376]
     rotation: 270
     state: enabled
 - name: virtual_source_0
