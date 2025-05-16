@@ -1,1 +1,2 @@
-# CommII_A1_G1
+Hola a todos 
+Somos estudiantes de Ingeniería Electrónica en la Universidad Industrial de Santander y este repositorio corresponde al Laboratorio 7 del curso de Comunicaciones II. En esta práctica trabajamos con el concepto de waveforming usando filtros de coseno alzado y raíz de coseno alzado, implementados en GNU Radio. El objetivo es analizar cómo estas formas de onda afectan la transmisión digital, evaluando aspectos como el ancho de banda, el diagrama de ojo y la constelación de la señal.
